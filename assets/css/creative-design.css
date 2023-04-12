@@ -11494,6 +11494,11 @@ section.height-auto {
   color: #495057;
 }
 
+.about-wrapper .content7 h3 {
+  padding-bottom: 30px;  
+}
+
+
 .about-wrapper .after {
   position: absolute;
   top: 10%;
@@ -11719,7 +11724,13 @@ margin: 3px;
 /** Talleres en index */
 
 #capatransparente {
-  background-color: rgba(0, 0, 0, 0.65);
+  background-color: rgba(0, 0, 0, 0.5);
   width: 100%;
   height: 100%;
+ }
+
+ #talleres {
+  padding-top: 10px;
+  color: #EBA661;
+  text-align: center;
  }
